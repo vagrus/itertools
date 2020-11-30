@@ -1,0 +1,15 @@
+{
+    "name": "vagrus/itertools",
+    "description": "PHP generator Itertools",
+    "type": "library",
+    "license": "MIT",
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=7.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Vagrus\\": "src"
+        }
+    }
+}
